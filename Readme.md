@@ -6,6 +6,7 @@
 
 1. Realiza un fork de este repositorio y clónalo.
 1. Las respuestas a las preguntas realízalas en este Readme
+2. Cada pregunta vale un punto
 
 ### Apartado 1
 
@@ -41,22 +42,5 @@
 **Pregunta**
 
 1. Cuando el *Breakpoint Condicional* se activa por **primera vez** (la primera vez que `siguiente_numero` es mayor que 20000), ¿qué longitud tiene `serie`?
-
----
-
-### Apartado 4
-
--  Asegúrate de que el *Breakpoint Condicional* y los *Watches* están desactivados, dejando solo el punto de interrupción normal en `serie = [0, 1]`.
--  Inicia la depuración con el ejemplo de uso original: `print(funcion_bucle(10))`.
--  Avanza la ejecución hasta la línea `while len(serie) < n:`.
--  Utiliza la función de PyCharm para **modificar el valor** de la variable `n` (el tamaño deseado de la serie) en la ventana de Variables. Cámbiala de `10` a **`5`**.
--  Continúa la ejecución del programa con *Resume Program*.
-
-**Preguntas**
-
-1. Después de modificar el valor de `n` de 10 a 5 y continuar la ejecución con *Resume Program*, ¿cuál será el contenido final exacto de la lista `serie` que se imprime en la consola de salida?
-**(Escribe la lista completa de números tal como la devuelve la función y el nombre de la herramienta que utilizaste para modificar la variable `n`).**
-
-2. ¿Qué desventaja o riesgo principal supone la modificación de variables en tiempo de ejecución (`n` en este caso) cuando se está intentando depurar un fallo en la lógica de negocio del programa?
 
 ---
