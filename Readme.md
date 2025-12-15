@@ -21,7 +21,7 @@
 **Pregunta**
 
 1. Si la función es llamada con `n=10`, ¿cuál es el valor de la variable `n` que se visualiza en la ventana de variables del debugger justo antes de que se ejecute la línea `serie = [0, 1]`?
-![Captura desde 2025-12-15 14-22-43.png](../../Im%C3%A1genes/Capturas%20de%20pantalla/Captura%20desde%202025-12-15%2014-22-43.png)
+   ![Captura desde 2025-12-15 14-22-43.png](../../Im%C3%A1genes/Capturas%20de%20pantalla/Captura%20desde%202025-12-15%2014-22-43.png)
 ---
 
 ### Apartado 2
